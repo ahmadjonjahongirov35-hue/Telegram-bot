@@ -1,2 +1,1 @@
-python-telegram-bot==21.6
-psycopg2-binary==2.9.9
+mkdir -p /mnt/user-data/outputs && cp /home/claude/bot/main.py /mnt/user-data/outputs/main.py && cp /home/claude/bot/
